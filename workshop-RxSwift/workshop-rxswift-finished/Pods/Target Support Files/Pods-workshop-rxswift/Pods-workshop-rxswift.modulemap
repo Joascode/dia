@@ -1,0 +1,6 @@
+framework module Pods_workshop_rxswift {
+  umbrella header "Pods-workshop-rxswift-umbrella.h"
+
+  export *
+  module * { export * }
+}
